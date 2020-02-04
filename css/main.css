@@ -1,0 +1,35 @@
+.flex-container {
+  display: flex ;
+}
+
+.flex-container> div {
+  background-color: #f1f1f1;
+  text-align: center;
+  margin: 100px;
+  padding:100px;
+  font-size: 20px;
+}
+.flex-container1 {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container1 > div {
+  background-color: #f1f1f1;
+  width: 500px;
+  margin: 10px;
+  text-align: center;
+  line-height: 300px;
+  font-size: 30px;
+}
+.flex-container2 {
+  display: flex ;
+}
+
+.flex-container2> div {
+  background-color: #f1f1f1;
+  text-align: center;
+  margin: 50px;
+  padding: 50px;
+  font-size: 20px;
+}

@@ -1,0 +1,42 @@
+home page details
+
+logo size:  margin 100px
+            padding 100 px
+            font- size:20 px
+
+ navigation {header}:margin 100px
+            padding 100 px
+            font- size:20 px
+
+ body part: width: 500px;
+  margin: 10px;
+  text-align: center;
+  line-height: 300px;
+  font-size: 30px
+
+footer navigation:
+  text-align: center;
+  margin: 50px;
+  padding: 50px;
+  font-size: 20px;
+}
+ about us page:
+logo size:  margin 100px
+            padding 100 px
+            font- size:20 px
+
+ navigation {header}:margin 100px
+            padding 100 px
+            font- size:20 px
+
+ body part: width: 500px;
+  margin: 10px;
+  text-align: center;
+  line-height: 300px;
+  font-size: 30px
+
+footer navigation:
+  text-align: center;
+  margin: 50px;
+  padding: 50px;
+  font-size: 20px;
